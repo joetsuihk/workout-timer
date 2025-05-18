@@ -1,6 +1,6 @@
 let exercises = 5;
-let exerciseDuration = 5; // seconds
-let restDuration = 3; // seconds
+let exerciseDuration = 45; // seconds
+let restDuration = 15; // seconds
 let currentStep = 0;
 let timer;
 let isRunning = false;
